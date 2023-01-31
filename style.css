@@ -1,0 +1,26 @@
+#wrapper{
+    /*display : flex;*/
+    text-align: center;
+    align-items : center;
+    font-size: large;
+    border: 5px solid blueviolet;
+    width: fit-content;
+    border-radius: 10%;
+}
+#n1,#n2{
+    padding:5 px;
+    border-radius : 5px;
+}
+#result,#buttonadd{
+    border: 1px solid red;
+    height : 50px;
+    width : 50px;
+    border-radius: 5px;
+}
+#buttonadd:hover{
+    background-color: green;
+    color: pink;
+}
+
+#map { height: 100vh; }
+
